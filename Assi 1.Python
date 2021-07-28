@@ -1,0 +1,4 @@
+Li =int(input())
+Li.split()
+Li.reverse()
+Print(li)
